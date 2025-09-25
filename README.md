@@ -1,2 +1,3 @@
 # SuperCHEF
-SuperCHEF website that helps users search for recipes based on ingredients, cuisine, or dietary preferences by integrating the Spoonacular API. The website features a clean and responsive interface where users can input available ingredients, and the app fetches recipe suggestions in real-time.
+SuperCHEF website that helps users search for recipes based on ingredients, cuisine, or dietary preferences by integrating the Spoonacular API. The website features a clean and responsive interface where users can input available ingredients, and the app fetches recipe suggestions in real-time and web application developed using HTML, CSS, JavaScript, and the Spoonacular API. It allows users to search for recipes based on ingredients or dish names, displaying images, titles, and links to full instructions, making cooking easier 
+and more accessible through a user-friendly interface.
